@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+/*===============================
+         Common-Css
+================================*/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+/*===============================
+         Header-area
+================================*/
+.main-header{
+    background-color: #264653;
+}
+.first-pera{
+    color: #fff;
+    font-size: 14px;
+}
+.tittle h1{
+    color: #fff;
+    font-family: poppins;
+    font-size: 48px;
+    font-weight: 500;
+    margin: 10px 0;
+}
+.second-pera{
+    color: #E0E0E0;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+.tittle a{
+    background-color: #E76F51;
+    border-radius: 5px;
+    padding: 10px 35px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+}
+/*===============================
+         Feature-bike-area
+================================*/
+.feature{
+    font-size: 48px;
+    color: #000;
+    font-weight: 700;
+}
+.under{
+   border-bottom: 3px solid #E76F51;
+   margin: 10px 0;
+}
+.best{
+    font-size: 14px;
+    color: #E76F51;
+    margin-bottom: 100px;
+}
+.gray{
+    filter: grayscale(100%);
+}
+/*===============================
+         Happy-clint-area
+================================*/
+.happy-clint-area{
+    width: 800px;
+    margin-bottom: 120px;
+}
+.happy{
+    font-weight: 900;
+    padding-top: 130px;
+}
+span{
+    color: #e76f51;
+}
+.single-clint img{
+    width: 55%;
+    padding: 30px 0;
+    margin: 0 auto;
+}
+.single-clint p{
+    color: #6C6C6C;
+    text-align: center;
+}
+.single-clint h4{
+    color: #23A6F0;
+    font-size: 14px;
+    padding: 15px 0;
+    text-align: center;
+    font-weight: 600; 
+}
+.single-clint h3{
+    color: #252B42;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+}
+.black-clint{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.star{
+    color: #E77C40;
+}
+/* =====================================
+        Asked Questions-area
+========================================*/
+.faq-area{
+    width: 1000px;
+    margin: 0% auto;
+    padding-bottom: 100px;
+}
+.accordion-button{
+    font-weight: bold;
+}
+/* =====================================
+        choice-brand-area
+========================================*/
+.choice-brand{
+    width: 800px;
+    margin: 0% auto;
+}
+.brand-area{
+    margin-bottom: 100px;
+}
+.choice-tittle{
+    font-size: 48px;
+    font-weight: bold;
+    color: #222f3e;
+    /* margin-bottom: 60px; */
+}
+.single-brand{
+    /* width: 25%; */
+    align-items: center;
+    margin-top: 30px;
+}
+/* =====================================
+        prograss-area
+========================================*/
+.prograss-area{
+    width: 600px;
+    margin: 0% auto;
+}
+.prograss-tittle{
+    color: #0a3d62;
+    margin-bottom: 40px;
+    font-weight: 600;
+}
+.pro-bar{
+    height: 25px;
+}
+/* =====================================
+          footer-area
+========================================*/
+footer{
+    background-color: #f1f2f6;
+}
+.copy{
+    text-align: center;
+    padding: 40px 0;
+    margin-top: 60px;
+}
